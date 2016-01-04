@@ -1,0 +1,3 @@
+
+* Kick start Web Application using Rails 4.0 & MongoDB (using mongoid gem)
+
